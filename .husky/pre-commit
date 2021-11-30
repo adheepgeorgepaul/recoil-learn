@@ -4,4 +4,3 @@
 npm run check-format
 npm run check-types
 npm run check-lint
-npm run test-all
