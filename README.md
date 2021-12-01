@@ -6,3 +6,5 @@
 6. .eslintignore, .prettierignore
 7. Configure husky to run pre-commit hooks:npx husky-init, npm install
 8. Configure scss: npm i sass --save-dev
+9. Update node version
+10. Create .nvmrc
