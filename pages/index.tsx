@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import Image from 'next/image';
 import { FC } from 'react';
-import styles from '../styles/Home.module.css';
+import styles from '../styles/Home.module.scss';
 
 const Home: FC = () => (
   <div className={styles.container}>
