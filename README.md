@@ -3,4 +3,4 @@
 3. npm install --save-dev eslint-config-prettier ( avoid rule conflicts)
 4. Add prettier to the extends array of eslintrc.json
 5. .eslintignore, .prettierignore
-6. npx husky-init, npm install
+6. Configure husky to run pre-commit hooks:npx husky-init, npm install
